@@ -73,6 +73,7 @@ body {
   text-decoration: none;
   color: var(--heading-color);
   font-weight: 600;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 375px) {
