@@ -4,25 +4,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### Links
 
 - Solution URL: (https://github.com/Fbeye04/QR-code)
-- Live Site URL: [Add live site URL here](https://fbeye04.github.io/QR-code/)
+- Live Site URL: (https://fbeye04.github.io/QR-code/)
 
 ### Built with
 
@@ -84,6 +74,6 @@ In this code, the `<header>`, `<nav>`, `<section>`, `<article>`, and `<footer>` 
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/muhammad-fachrezi-barus/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Fbeye04)
-- GitHub - [@yourusername](https://github.com/Fbeye04)
+- LinkedIn - [Muhammad Fachrezi Barus](https://www.linkedin.com/in/muhammad-fachrezi-barus/)
+- Frontend Mentor - [@Fbeye04](https://www.frontendmentor.io/profile/Fbeye04)
+- GitHub - [@Fbeye04](https://github.com/Fbeye04)
