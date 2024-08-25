@@ -48,10 +48,11 @@ body {
   padding: 1rem;
 }
 
-.card .card-body h2 {
+.card .card-body h1 {
   color: var(--heading-color);
   font-size: 1.4rem;
   padding-bottom: 1rem;
+  font-weight: 700;
 }
 
 .card .card-body p {
